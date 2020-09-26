@@ -10,9 +10,9 @@ body {
 
 .portfolio-photos {
     margin: 20px;
-    flex-flow: column;
-    position: relative;
-  
+    align-content: flex-start;
+    width:45%;
+    max-width:45%
 }
 .about-me-container {
     margin-top: 18px;

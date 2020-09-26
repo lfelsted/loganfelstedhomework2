@@ -1,0 +1,9 @@
+body {
+    font-family: 'Arvo', serif;
+    background-color: rgb(160, 161, 157);
+
+}
+.img-thumbnail {
+    float: left;
+    margin-right: 20px;
+}

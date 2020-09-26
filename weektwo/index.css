@@ -1,9 +1,20 @@
 body {
     font-family: 'Arvo', serif;
     background-color: rgb(160, 161, 157);
-
 }
-.img-thumbnail {
+
+.about-me-photo {
     float: left;
     margin-right: 20px;
+}
+
+.portfolio-photos {
+    margin: 20px;
+    flex-flow: column;
+    position: relative;
+  
+}
+.about-me-container {
+    margin-top: 18px;
+
 }

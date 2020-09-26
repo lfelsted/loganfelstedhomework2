@@ -2,3 +2,8 @@ body {
     font-family: 'Arvo', serif;
     background-color: rgb(160, 161, 157);
 }
+img {
+    margin: 12px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
